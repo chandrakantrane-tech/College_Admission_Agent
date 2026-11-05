@@ -2,3 +2,4 @@ streamlit
 groq
 chromadb
 sentence-transformers
+torch
